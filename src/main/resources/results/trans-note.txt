@@ -1,0 +1,16 @@
+Filename: example03.docx Size: 106.26 KB Execution time: 109.745 seconds.
+Filename: file-example2.docx Size: 21.75 KB Execution time: 86.949 seconds.
+Filename: sample1.docx Size: 1.25 MB Time taken: 360.45 seconds.
+Filename: sample4.docx Size: 13.51 MB Time taken: 708.654 seconds.
+Filename: Test-Case-Format-with-Example.docx Size: 132.11 KB Execution time: 194.211 seconds.
+Filename: TestCaseTemplate.docx Size: 15.81 KB Execution time: 163.264 seconds.
+Filename: WideTable-SPSS2Word.docx Size: 346.77 KB Execution time: 75,795 seconds.
+--------------------------------------------------- --------------------------------------------------- ------.
+.
+Filename: Test-Case-Format-with-Example.docx Size: 132.11 KB Execution time: 1,492 seconds.
+Filename: TestCaseTemplate.docx Size: 15.81 KB Execution time: 0.092 seconds.
+Filename: WideTable-SPSS2Word.docx Size: 346.77 KB Execution time: 0.107 seconds.
+Filename: TestCaseTemplate.docx Size: 15.81 KB Execution time: 161.415 seconds.
+Filename: TestFormat.docx Size: 13.68 KB Execution time: 1.285 seconds.
+Filename: TestFormat01.docx Size: 13.68 KB Execution time: 1.257 seconds.
+Filename: TestFormat01.docx Size: 13.68 KB Execution time: 14,877 seconds.

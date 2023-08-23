@@ -1,0 +1,41 @@
+Tên file: example03.docx            Kích thước: 106.26 KB        Thời gian thực hiện: 109.745 seconds
+Tên file: file-example2.docx        Kích thước:  21.75 KB        Thời gian thực hiện: 86.949 seconds
+Tên file: sample1.docx              Kích thước:   1.25 MB        Thời gian thực hiện: 360.45 seconds
+Tên file: sample4.docx              Kích thước:  13.51 MB        Thời gian thực hiện: 708.654 seconds
+Tên file: Test-Case-Format-with-Example.docx Kích thước: 132.11 KB        Thời gian thực hiện: 194.211 seconds
+Tên file: TestCaseTemplate.docx     Kích thước: 15.81 KB        Thời gian thực hiện: 163.264 seconds
+Tên file: WideTable-SPSS2Word.docx  Kích thước: 346.77 KB        Thời gian thực hiện: 75.795 seconds
+----------------------------------------------------------------------------------------------------------
+
+Tên file: Test-Case-Format-with-Example.docx Kích thước: 132.11 KB        Thời gian thực hiện: 1.492 seconds
+Tên file: TestCaseTemplate.docx     Kích thước: 15.81 KB        Thời gian thực hiện: 0.092 seconds
+Tên file: WideTable-SPSS2Word.docx  Kích thước: 346.77 KB        Thời gian thực hiện: 0.107 seconds
+Tên file: TestCaseTemplate.docx     Kích thước: 15.81 KB        Thời gian thực hiện: 161.415 seconds
+Tên file: TestFormat.docx           Kích thước: 13.68 KB        Thời gian thực hiện: 1.285 seconds
+Tên file: TestFormat01.docx         Kích thước: 13.68 KB        Thời gian thực hiện: 1.257 seconds
+Tên file: TestFormat01.docx         Kích thước: 13.68 KB        Thời gian thực hiện: 14.877 seconds
+Tên file: sample4.docx              Kích thước: 13.51 MB        Thời gian thực hiện: 88.866 seconds
+Tên file: sample4.docx              Kích thước: 13.51 MB        Thời gian thực hiện: 83.914 seconds
+------------------------------------------------------------------------------------------------------------
+NumThread = 10
+Tên file: sample4.docx              Kích thước: 13.51 MB        Thời gian thực hiện: 76.824 seconds
+NumThread = 20
+Tên file: sample4.docx              Kích thước: 13.51 MB        Thời gian thực hiện: 41.866 seconds
+NumThread = 30
+Tên file: sample4.docx              Kích thước: 13.51 MB        Thời gian thực hiện: 27.584 seconds
+NumThread = 50
+Tên file: sample4.docx              Kích thước: 13.51 MB        Thời gian thực hiện: 18.459 seconds
+NumThread = 100
+Tên file: sample4.docx              Kích thước: 13.51 MB        Thời gian thực hiện: 14.099 seconds
+-------------------------------------------------------------------------------------------------------------
+NumThread = 50
+Tên file: Cơm trưa Falcon Team -  Xứ Đông.xlsx Kích thước: 1.4 MB        Thời gian thực hiện: 346.604 seconds
+Tên file: sample4.docx              Kích thước: 13.51 MB        Thời gian thực hiện: 19.809 seconds
+Tên file: file-sample_1MB.docx      Kích thước: 1002.67 KB        Thời gian thực hiện: 30.372 seconds
+Tên file: file-sample_1MB.docx      Kích thước: 1002.67 KB        Thời gian thực hiện: 33.082 seconds
+Tên file: file-sample_1MB.docx      Kích thước: 1002.67 KB        Thời gian thực hiện: 32.213 seconds
+Tên file: sample4.docx              Kích thước: 13.51 MB        Thời gian thực hiện: 18.589 seconds
+Tên file: Test-Case-Format-with-Example.docx Kích thước: 132.11 KB        Thời gian thực hiện: 153.157 seconds
+Tên file: TestFormat01.docx         Kích thước: 13.68 KB        Thời gian thực hiện: 2.252 seconds
+Tên file: sample4.docx              Kích thước: 13.51 MB        Thời gian thực hiện: 18.216 seconds
+Tên file: sample1.docx              Kích thước: 1.25 MB        Thời gian thực hiện: 266.475 seconds
